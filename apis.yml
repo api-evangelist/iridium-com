@@ -1,0 +1,104 @@
+aid: iridium-com
+name: Iridium
+description: >-
+  Iridium Communications Inc. (NASDAQ: IRDM) is a McLean, Virginia satellite
+  communications company operating a constellation of 66 cross-linked Low Earth
+  Orbit (LEO) satellites that deliver truly global L-band voice, data, IoT, and
+  positioning/navigation/timing (PNT) services across every region of the Earth,
+  including the polar oceans. Iridium sells satellite phones (Iridium Extreme),
+  satellite messengers, satellite IoT modules and modems (Iridium 9602/9603,
+  Iridium Certus 9770/9810/9704, Iridium Edge, Iridium Edge Pro, Iridium Edge
+  Solar), Short Burst Data (SBD) messaging, broadband Certus terminals, and
+  next-generation Iridium NTN Direct 5G Non-Terrestrial Network services
+  built on 3GPP NB-IoT for direct-to-device smartphone and IoT connectivity.
+  Iridium CloudConnect — co-developed with Amazon Web Services — pipes
+  satellite IoT data as JSON into customer-owned Amazon SQS queues inside
+  their own AWS VPC over a dedicated private Iridium-AWS interconnect, making
+  Iridium the first global cloud-native satellite IoT backhaul. The company
+  serves aviation, maritime, government/defense, land-mobile, autonomous
+  systems, and IoT markets through a partner ecosystem of more than 500
+  service providers, value-added resellers, and hardware OEMs, and in May 2026
+  announced a planned acquisition of Aireon, operator of the world's only
+  space-based air traffic surveillance network. Iridium's business model is
+  airtime/subscription revenue plus hardware module licensing and engineering
+  services; there is no public, self-service developer API or OpenAPI —
+  network access is mediated through Iridium-authorized service providers,
+  the Iridium CloudConnect AWS integration, and hardware-level AT-command and
+  SBD interfaces on Iridium modems.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Satellite
+  - Satellite Communications
+  - LEO
+  - L-Band
+  - IoT
+  - Satellite IoT
+  - Short Burst Data
+  - SBD
+  - Iridium Certus
+  - Iridium NTN Direct
+  - NB-IoT
+  - 5G Non-Terrestrial Network
+  - Direct To Device
+  - Positioning Navigation And Timing
+  - PNT
+  - Maritime
+  - Aviation
+  - Defense
+  - Autonomous Systems
+  - CloudConnect
+  - AWS
+url: https://raw.githubusercontent.com/api-evangelist/iridium-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.iridium.com
+  - type: Services
+    url: https://www.iridium.com/services/
+  - type: CloudConnect
+    url: https://www.iridium.com/services/iridium-cloudconnect/
+  - type: NTNDirect
+    url: https://www.iridium.com/services/iridium-ntn-direct/
+  - type: PNT
+    url: https://www.iridium.com/services/pnt/
+  - type: IoTDataMessaging
+    url: https://www.iridium.com/services/iot-data-messaging/
+  - type: SafetySecurity
+    url: https://www.iridium.com/services/safety-security/
+  - type: Voice
+    url: https://www.iridium.com/services/voice/
+  - type: Products
+    url: https://www.iridium.com/products/
+  - type: DeveloperResources
+    url: https://www.iridium.com/products/develop-anything/
+  - type: Modules
+    url: https://www.iridium.com/products/iridium-9602/
+  - type: Partners
+    url: https://www.iridium.com/partners/
+  - type: Company
+    url: https://www.iridium.com/company/
+  - type: InvestorRelations
+    url: https://investor.iridium.com
+  - type: Newsroom
+    url: https://www.iridium.com/company/news-media/
+  - type: Careers
+    url: https://www.iridium.com/company/careers/
+  - type: Contact
+    url: https://www.iridium.com/company/contact/
+  - type: Messaging
+    url: https://messaging.iridium.com
+  - type: Twitter
+    url: https://twitter.com/IridiumComm
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/iridium-satellite-communications
+  - type: YouTube
+    url: https://www.youtube.com/user/IridiumComm
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
